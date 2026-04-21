@@ -1,0 +1,3 @@
+[submodule "src/vuetale-ui-starter"]
+	path = src/vuetale-ui-starter
+	url = git@github.com:KelpyCode/vuetale-ui-starter.git

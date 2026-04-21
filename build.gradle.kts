@@ -4,8 +4,8 @@ plugins {
     id("app.ultradev.hytalegradle") version "1.5.1"
 }
 
-group = "app.ultradev"
-version = "1.0-SNAPSHOT"
+group = "li.kelp.vuetale"
+version = "1.0.0"
 
 repositories {
     mavenCentral()

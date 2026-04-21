@@ -1,4 +1,4 @@
-rootProject.name = "VuetaleTemplate"
+rootProject.name = "MyMod"
 
 pluginManagement {
     repositories {

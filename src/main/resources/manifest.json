@@ -1,0 +1,15 @@
+{
+  "Group": "Vuetale",
+  "Name": "VuetaleTemplate",
+  "Version": "1.0.0",
+  "Main": "li.kelp.template.Plugin",
+  "Description": "",
+  "Authors": [],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "SubPlugins": []
+}
